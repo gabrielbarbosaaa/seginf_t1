@@ -1,7 +1,5 @@
 3 maiores casos de ataques cibernéticos 2022
 
-Entre os casos, porém, houveram ataques cibernéticos de grande proporção, que acabaram chamando a atenção em nível nacional. Além dos hackers conseguirem romper a segurança de empresas bastante conhecidas, clientes de diferentes segmentos econômicos foram colocados em risco. Conheça três casos envolvendo falta de cibersegurança registrados no final de 2022:
-
 1 – Record TV
 Entre os casos de maior destaque está o da emissora de televisão Record. Registrando um dos maiores ataques hackers contra empresas de mídias, a companhia acionou autoridades e especialistas de tecnologia para investigar uma ação por ransonware em outubro do ano passado. A Record teve o seu acervo de conteúdos sequestrados permitindo que os criminosos criptografassem todo o material disponível no sistema central.
 
